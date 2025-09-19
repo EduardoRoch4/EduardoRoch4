@@ -12,10 +12,9 @@ Sou apaixonado por tecnologia, inovação e desafios! Sempre em busca de aprende
 
 - 💻 **Tecnologias favoritas:** JavaScript, Python, Node.js, React, Docker
 - 🚀 **Projetos que me orgulham:**  
-  - [Bot de automação para Discord](https://github.com/EduardoRoch4/bot-discord)
-  - [Site pessoal com blog técnico](https://eduardoroch4.dev)
-  - [API de previsão do tempo](https://github.com/EduardoRoch4/weather-api)
-- 🌱 **Aprendendo agora:** Inteligência Artificial, Typescript, DevOps
+  - [Projeto de Brinquedoteca]([https://github.com/EduardoRoch4/bot-discord](https://github.com/EduardoRoch4/Projeto-Brinquedoteca))
+  - [Site de uma loja geek]([https://eduardoroch4.dev](https://github.com/EduardoRoch4/lojaGeek))
+- 🌱 **Aprendendo agora:** Infraestrutura de redes, Full Stack, DevOps
 
 ---
 
@@ -23,8 +22,6 @@ Sou apaixonado por tecnologia, inovação e desafios! Sempre em busca de aprende
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -32,7 +29,7 @@ Sou apaixonado por tecnologia, inovação e desafios! Sempre em busca de aprende
 
 ## 🤩 Curiosidades
 
-- 🎸 Músico nas horas vagas (guitarra e violão)
+- 🎸 Música é tudo
 - ☕ Viciado em café e boas conversas sobre tecnologia
 - 🌎 Fã de viagens e culturas diferentes
 - 🎮 Gamer casual (adoro jogos indie!)
@@ -46,6 +43,7 @@ Sou apaixonado por tecnologia, inovação e desafios! Sempre em busca de aprende
 ---
 
 ## 📫 Onde me encontrar
+Linkedin: https://www.linkedin.com/in/eduardo-rocha-15b8b6299/
 
 - [Site pessoal](https://eduardoroch4.dev)
 - [LinkedIn](https://www.linkedin.com/in/eduardoroch4/)
